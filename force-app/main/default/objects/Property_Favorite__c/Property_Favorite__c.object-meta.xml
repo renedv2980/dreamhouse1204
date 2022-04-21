@@ -56,10 +56,10 @@
     <label>Property IKAN</label>
     <nameField>
         <displayFormat>F-{00000000}</displayFormat>
-        <label>Property Favorite Name</label>
+        <label>Property  Name</label>
         <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Property Favorites</pluralLabel>
+    <pluralLabel>Property SF Favorites</pluralLabel>
     <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
