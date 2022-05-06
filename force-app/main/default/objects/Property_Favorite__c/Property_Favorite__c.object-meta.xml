@@ -53,7 +53,7 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <!--externalSharingModel>ReadWrite</externalSharingModel-->
-    <label>Property IKAN</label>
+    <label>Property of IKAN</label>
     <nameField>
         <displayFormat>F-{00000000}</displayFormat>
         <label>Property <SAL-06> Name</label>
